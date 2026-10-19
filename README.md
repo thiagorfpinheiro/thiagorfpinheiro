@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thiagorfpinheiro
 - 👀 I’m interested in everything about computers.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my own personal projects.
 - 📫 How to reach me ...
 
 <!---
