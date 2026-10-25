@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything about computers.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on my own personal projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ... you don't.
 
 <!---
 thiagorfpinheiro/thiagorfpinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
