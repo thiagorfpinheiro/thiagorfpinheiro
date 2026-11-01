@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagorfpinheiro
 - 👀 I’m interested in everything about computers.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently exploring A.I. power.
 - 💞️ I’m looking to collaborate on my own personal projects.
 - 📫 How to reach me ... you don't.
 
